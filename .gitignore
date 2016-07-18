@@ -234,3 +234,11 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+#Angular 2 ignores
+typings
+app/**/*.js
+app/**/*.map
+node_modules
+jspm_packages
+bower_components
